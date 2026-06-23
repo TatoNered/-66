@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /*?d=
-
-Sitemap: https://example.ru/sitemap.xml
